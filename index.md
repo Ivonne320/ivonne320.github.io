@@ -17,7 +17,8 @@ My research interest primarily focuses on the application of deep learning to va
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 20193 -->
+{% include_relative _includes/services.md %}
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
