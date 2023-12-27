@@ -25,7 +25,9 @@
    
 </ul>
 <br><br>
+
 <h4 style="margin:0 10px 0;">Comparative Analysis of ZO and FO Optimization Methods in Neural Networks </h4>
+<ul style="margin:0 0 5px;">
     <li>
         In this project, we investigated the application limits of first-order (FO) optimization methods, like SGD and signSGD, due to the often expensive or unavailable derivatives of the objective function. While zeroth-order (ZO) methods, such as ZO-SGD and ZO-signSGD, which optimize without computing gradients, serve as emerging alternatives. The research conducted comparative analysis on the convergence speed, stability, and overall performance for these widely-used FO methods against their ZO versions, across various hyperparameters and neural network configurations. It finds that while FO methods are more sensitive to learning rates, ZO methods are heavily influenced by model architecture and scaling. Overall, FO optimizers typically surpass ZO in performance under optimal conditions. A hybrid FO-ZO approach was shown to strike a balance between gradient computation costs and optimization effectiveness.
         <br><br>
