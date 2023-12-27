@@ -1,4 +1,4 @@
-## Research Projects
+## Projects
 
 <h4 style="margin:0 10px 0;">2D Lane Detection with Human Pose Estimation </h4>
 
@@ -11,9 +11,16 @@
    
 </ul>
 
-<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Pose Estimation Based Monocular 3D Lane Detection </h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul> -->
+<ul style="margin:0 0 5px;">
+    <li>       
+        The above course project is extended as a research project at <a href="https://www.epfl.ch/labs/vita/" target="_blank">VITA</a>, where we improved keypoint downsampling strategy to facilitate the lane pose learning. This 2D task achieved on-par performance with state-of-the-art 2D methods on <a href="https://github.com/The-OpenROAD-Project/OpenLane" target="_blank">OpenLane</a>, as reported by <a href="https://arxiv.org/abs/2203.11089" target="_blank">PersFormer</a> . For 3D detection, we combined this method with dense depth estimation, for which we finetuned for better performance in outdoor super-deep scenes.
+        <br><br>
+        <video width="400" height="240" controls>
+            <source src="../assets/img/video_midterm_2.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </li>
+   
+</ul>
