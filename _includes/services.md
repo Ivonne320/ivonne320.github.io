@@ -76,3 +76,19 @@
 </text>
    
 </ul>
+<br><br>
+
+## Publications
+
+<h4 style="margin:0 0px 0;">Tracing the origin of large respiratory droplets by their deposition characteristics inside the respiratory tract during speech </h4>
+<ul style="margin:0; padding:0;">
+<text>
+   Yihan Wang, Jianjian Wei,  Caroline X. Gao, Li Liu, <a href="https://pubmed.ncbi.nlm.nih.gov/37101943/" target="_blank">Building Simulation, 16, 781 – 794 (2023)</a>, orally presented in IEHB (2021).
+    <br><br>
+    During Covid-19 year, the prevailance of asymptomatic or pre-symptomatic transmissions were constantly threatening public health, and the relative importance of airborne transmission and droplet-spray transmission were at controverisal. To provide insights for non-pharmaceutical infection control, we conducted a numerical investigation based on computational fluid dynamics into the escaping threshold of differently-sized droplets generating from major SARS-CoV-2 replication sites during speech activaty, with a real human airway model. Combined with published medical data, we highlighted the high risk of small droplets and underestimated importance of airborne transmission route.
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="../assets/img/pub.png" alt="Chatbot Responses" style="width: 100%; max-width: 520px; height: auto;">
+    </div>
+</text>
+   
+</ul>
