@@ -69,6 +69,19 @@
 </ul>
 <br><br>
 
+<h4 style="margin:0 0px 0;">Deep Learning Specialization Projects </h4>
+<ul style="margin:0; padding:0;">
+<text>
+    After starting hands-on projects directly from <a href="https://edu.epfl.ch/coursebook/fr/deep-learning-for-autonomous-vehicles-CIVIL-459" target="_blank">Deep Learning for Autonomous Vehicles</a> @ EPFL, I decided to take a systematic approach to learn and comprehend deep learning for computer vision with <a href="https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_deep-learning_deeplearning-ai_FTCOF_specializations_country-multi&campaignid=20858198821&adgroupid=156245837229&device=c&keyword=deep%20learning%20certification&matchtype=b&network=g&devicemodel=&adposition=&creativeid=684249171979&hide_mobile_promo&gclid=Cj0KCQiA1rSsBhDHARIsANB4EJaT7BJYAGY5QAvCqjYBwP2bEqx7x7OFU89sH_UGh3XmmCNCpZxaYrMaAsaQEALw_wcB" target="_blank">Deep Learning Specialization</a> @ Coursera. There I both gained theoratical knowledge about and had the chance to implement from scratch efficient network architectures, including ResNet, LSTM, Transformers, etc, and also applied them to various computer vision tasks including car detection based on YOLO and image segmentation with U-Net.         
+    <br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="../assets/img/coursera.jpg" alt="Deep Learning Specialization Projects" style="width: 100%; max-width: 620px; height: auto;">
+    </div>
+</text>
+   
+</ul>
+<br><br>
+
 ## Publications
 
 <h4 style="margin:0 0px 0;">Tracing the origin of large respiratory droplets by their deposition characteristics inside the respiratory tract during speech </h4>
@@ -78,7 +91,7 @@
     <br><br>
     During Covid-19 year, the prevailance of asymptomatic or pre-symptomatic transmissions were constantly threatening public health, and the relative importance of airborne transmission and droplet-spray transmission were at controverisal. To provide insights for non-pharmaceutical infection control, we conducted a numerical investigation based on computational fluid dynamics into the escaping threshold of differently-sized droplets generating from major SARS-CoV-2 replication sites during speech activaty, with a real human airway model. Combined with published medical data, we highlighted the high risk of small droplets and underestimated importance of airborne transmission route.
     <div style="display: flex; justify-content: center; align-items: center;">
-        <img src="../assets/img/pub.png" alt="Chatbot Responses" style="width: 100%; max-width: 520px; height: auto;">
+        <img src="../assets/img/pub.png" alt="Chatbot Responses" style="width: 100%; max-width: 620px; height: auto;">
     </div>
 </text>
    
