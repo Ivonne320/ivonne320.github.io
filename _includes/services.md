@@ -1,4 +1,4 @@
-## Projects
+## Selected Projects
 
 <h4 style="margin:0 10px 0;">2D Lane Detection with Human Pose Estimation </h4>
 
@@ -29,13 +29,22 @@
 </ul>
 <br><br>
 
-<h4 style="margin:0 10px 0;">Comparative Analysis of ZO and FO Optimization Methods in Neural Networks </h4>
+<!-- <h4 style="margin:0 10px 0;">Comparative Analysis of ZO and FO Optimization Methods in Neural Networks </h4>
 <ul style="margin:0; padding:0;">
 <text>
     In this project, we compared first-order (FO) optimization methods like SGD and signSGD with zeroth-order (ZO) alternatives, such as ZO-SGD and ZO-signSGD, which operate without gradient computations. This study focused on evaluating the convergence speed, stability, and performance of FO and ZO methods under various hyperparameters and neural network configurations. We found that while FO methods are more sensitive to learning rate adjustments, ZO methods are more dependent on model architecture and scaling. Generally, FO optimizers outperform ZO under ideal conditions. A hybrid FO-ZO strategy was found to offer a compromise, balancing gradient computation costs with optimization efficiency.
     <br><br>
     <img src="../assets/img/FO_ZO_lr.png" alt="ZO vs FO: lr" title="omparison of ZO and FO optimizers using same learning rates" style="width: 100%; max-width: 660px; height: auto;">
     <img src="../assets/img/ZO_FO_2.png" alt="ZO vs FO: model scaling and hybrid" style="width: 100%; max-width: 660px; height: auto;">
+</text>
+   
+</ul>
+<br><br> -->
+
+<h4 style="margin:0 10px 0;">Improving Neural Networks Performance with Zeroth-order and First-order Hybrid Optimization Methods </h4>
+<ul style="margin:0; padding:0;">
+<text>
+   This project delves into the limitations of first-order (FO) gradient-based optimization in neural networks, exploring  their gradient-free zeroth-order (ZO) alternatives like ZO-SGD and ZO-signSGD. Using a PyTorch-based framework, we implemented and compared ZO and FO methods across various network configurations and hyperparameters, assessing time efficiency, convergence rate, stability and overall performance. The study reveals ZO methods' increased stability and lower hyperparameter sensitivity, attributed to the regularizing effect of perturbation techniques in gradient estimation. However, ZO methods were found to be more reliant on model architecture and scaling. A hybrid FO-ZO approach emerged as a balanced solution, optimizing both gradient computation costs and efficiency.
 </text>
    
 </ul>
@@ -46,9 +55,11 @@
 <text>
     This project takes a deep dive into beer popularity and user taste preferences using review datasets from <a href="https://www.beeradvocate.com/" target="_blank">BeerAdvocate</a> and , consisting of both categorical ratings and textual reviews. Merging statistical methods with natural language processing techniques like sentiment analysis and word2vec, we uncovered a multi-faceted view of the beer domain, including the popularity of beer and the influence of naming on ratings, and the similarities between styles. Our findings provide tailored recommendations for users, considering not just popularity but also qualitative attributes and regional taste variations. An interactive webpage was also deployed to tell the data story as follows. 
     <br><br>
-    <a href="https://epfl-ada.github.io/ada-2023-project-badanalysist/" target="_blank">
-    <img src="../assets/img/beer.png" alt="Beer review data story" style="width: 100%; max-width: 480px; height: auto;">
-    </a>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <a href="https://epfl-ada.github.io/ada-2023-project-badanalysist/" target="_blank">
+        <img src="../assets/img/beer.png" alt="Beer review data story" style="width: 100%; max-width: 420px; height: auto;">
+        </a>
+    </div>
 </text>
    
 </ul>
