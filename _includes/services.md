@@ -20,7 +20,7 @@
     <br><br>
     <div style="display: flex; justify-content: center; align-items: center;">
         <video width="400" height="240" controls>
-            <source src="../assets/img/lane_no_watermark.mp4" type="video/mp4" >
+            <source src="../assets/img/demo_3d.mp4" type="video/mp4" >
             Your browser does not support the video tag.
         </video>
     </div>
