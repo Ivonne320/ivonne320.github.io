@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), with a focus on computer vision and machine learning. I'm currently working as a project student working on perception task for autonomous vehicles at [VITA lab](https://www.epfl.ch/labs/vita/) under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and Ms Reyhaneh Hosseininejad. Prior to joining EPFL, my deep-seated interest in human-centric technology led me to conduct research on the spread mechanisms of respiratory diseases at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University), where I completed my bachelor's degree, working under the supervision [Prof. Jianjian Wei](https://scholar.google.com.hk/citations?user=N71FJjgAAAAJ&hl=zh-TW).    
+I am a Master's student at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), with a focus on computer vision and machine learning. I'm currently working as a project student working on perception task for autonomous vehicles at [VITA lab](https://www.epfl.ch/labs/vita/) under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and Ms Reyhaneh Hosseininejad. Prior to joining EPFL, my deep-seated interest in human-centric technology led me to conduct research on the spread mechanisms of respiratory diseases at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University), where I completed my bachelor's degree, working under the supervision of [Prof. Jianjian Wei](https://scholar.google.com.hk/citations?user=N71FJjgAAAAJ&hl=zh-TW).    
 
 ## Research Interests
 
