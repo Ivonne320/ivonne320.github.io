@@ -24,6 +24,7 @@
             Your browser does not support the video tag.
         </video>
     </div>
+    <br><br>
     <div style="display: flex; justify-content: center; align-items: center;">
         <img src="../assets/img/3d_demo.jpg" alt="3d results" style="width: 100%; max-width: 620px; height: auto;">
     </div>
