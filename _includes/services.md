@@ -26,6 +26,17 @@
             Your browser does not support the video tag.
         </video>
     </div>
+    <br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="../assets/img/images-facade.jpg" alt="images" style="width: 100%; max-width: 620px; height: auto;">
+    </div>
+    <br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <video width="400" height="240" controls>
+            <source src="../assets/img/compare-2.mp4" type="video/mp4" >
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </text>
    
 </ul>
