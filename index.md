@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Master's student at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), with a focus on computer vision and machine learning. I'm currently working as a project student focusing on perception task for autonomous vehicles at [VITA lab](https://www.epfl.ch/labs/vita/) under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) and Ms Reyhaneh Hosseininejad. Prior to joining EPFL, my deep-seated interest in human-centric technology led me to conduct research on the spread mechanisms of respiratory diseases at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University), where I completed my bachelor's degree, working under the supervision of [Prof. Jianjian Wei](https://scholar.google.com.hk/citations?user=N71FJjgAAAAJ&hl=zh-TW).    
+I am a Master's student at [École polytechnique fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), with a focus on computer vision and machine learning. I'm currently working as a research student focusing on parametrical diestortion-free Structure-from-Motion at [CVG group](https://cvg.ethz.ch/) under the supervision of [Prof. Dr. Marc Pollefeys](https://people.inf.ethz.ch/marc.pollefeys/). Previously, I spent time in [VITA lab](https://www.epfl.ch/labs/vita/) working on pose-estimation based lane marker detection, supervised by [Prof. Dr. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en). Prior to joining EPFL, my deep-seated interest in human-centric technology led me to conduct research on the spread mechanisms of respiratory diseases at [Zhejiang University](https://en.wikipedia.org/wiki/Zhejiang_University), where I completed my bachelor's degree, working under the supervision of [Prof. Jianjian Wei](https://scholar.google.com.hk/citations?user=N71FJjgAAAAJ&hl=zh-TW).    
 
 ## Research Interests
 
-My research interest primarily focuses on the application of deep learning to various computer vision tasks, such as image recognition, 3D localization, and 3D reconstruction. I am particularly interested in exploring these areas within the realm of autonomous vehicle perception. Additionally, I am keen to expand my expertise and gain practical experience in other domains involving autonomous systems.
+My research interest primarily focuses on the application of deep learning to various computer vision tasks, such as image recognition, 3D localization, and 3D reconstruction. I am particularly interested in exploring these areas within the realm of autonomous vehicle perception. Additionally, I am keen to expand my expertise and gain practical experience in other domains including augmented reality.
 
 
 <!-- ## News

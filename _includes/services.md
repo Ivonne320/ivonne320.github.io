@@ -11,6 +11,25 @@
    
 </ul>
 <br><br> -->
+<h3 style="margin:0 0px 0;">Beyond Structure-from-Motion with Camera Intrinsics </h3>
+<ul style="margin:0; padding:0;">
+<text>       
+    We developed a parametrical distortion-free incremental Structure-from-Motion (SfM) pipeline, incorporating with  <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500375.pdf" target="_blank"> 1D radial camera model</a> and <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Pan_Camera_Pose_Estimation_Using_Implicit_Distortion_Models_CVPR_2022_paper.html" target="_blank"> implicit distortion model</a>. The significantly better performance for both 3D point cloud quality and camera pose estimation quality on severly distorted datasets compared to the state-of-the-art COLMAP pipeline highlights the our pipeline's robustness to radial distortions.
+    <br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="../assets/img/images-square.jpg" alt="images" style="width: 100%; max-width: 620px; height: auto;">
+    </div>
+    <br><br>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <video width="400" height="240" controls>
+            <source src="../assets/img/compare-1.mp4" type="video/mp4" >
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</text>
+   
+</ul>
+<br><br>
 
 <h3 style="margin:0 0px 0;">Pose Estimation Based Monocular 3D Lane Detection </h3>
 
